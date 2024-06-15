@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Shlok-21/LeetCode-Problems/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1899-count-items-matching-a-rule](https://github.com/Shlok-21/LeetCode-Problems/tree/master/1899-count-items-matching-a-rule) |
 | [1944-truncate-sentence](https://github.com/Shlok-21/LeetCode-Problems/tree/master/1944-truncate-sentence) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/Shlok-21/LeetCode-Problems/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Shlok-21/LeetCode-Problems/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 # Greedy
 |  |
@@ -50,3 +51,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2384-root-equals-sum-of-children](https://github.com/Shlok-21/LeetCode-Problems/tree/master/2384-root-equals-sum-of-children) |
+# Two Pointers
+|  |
+| ------- |
+| [2271-rearrange-array-elements-by-sign](https://github.com/Shlok-21/LeetCode-Problems/tree/master/2271-rearrange-array-elements-by-sign) |
+# Simulation
+|  |
+| ------- |
+| [2271-rearrange-array-elements-by-sign](https://github.com/Shlok-21/LeetCode-Problems/tree/master/2271-rearrange-array-elements-by-sign) |
