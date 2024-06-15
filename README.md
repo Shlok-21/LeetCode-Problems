@@ -40,3 +40,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Shlok-21/LeetCode-Problems/tree/master/1683-maximum-number-of-coins-you-can-get) |
+# Tree
+|  |
+| ------- |
+| [2384-root-equals-sum-of-children](https://github.com/Shlok-21/LeetCode-Problems/tree/master/2384-root-equals-sum-of-children) |
+# Binary Tree
+|  |
+| ------- |
+| [2384-root-equals-sum-of-children](https://github.com/Shlok-21/LeetCode-Problems/tree/master/2384-root-equals-sum-of-children) |
