@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/Shlok-21/LeetCode-Problems/tree/master/0009-palindrome-number) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Shlok-21/LeetCode-Problems/tree/master/1683-maximum-number-of-coins-you-can-get) |
+| [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Shlok-21/LeetCode-Problems/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 # Array
 |  |
 | ------- |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Shlok-21/LeetCode-Problems/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1899-count-items-matching-a-rule](https://github.com/Shlok-21/LeetCode-Problems/tree/master/1899-count-items-matching-a-rule) |
 | [1944-truncate-sentence](https://github.com/Shlok-21/LeetCode-Problems/tree/master/1944-truncate-sentence) |
+| [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Shlok-21/LeetCode-Problems/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 # Greedy
 |  |
 | ------- |
