@@ -1,8 +1,8 @@
 from collections import Counter
 class Solution:
     def minSteps(self, s: str, t: str) -> int:
-        s1 = Counter(sorted(s))
-        t1 = Counter(sorted(t))
+        s1 = Counter(s)
+        t1 = Counter(t)
         sum=0
         s1.subtract(t1)
         for i in s1:
