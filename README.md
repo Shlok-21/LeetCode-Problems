@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0853-most-profit-assigning-work](https://github.com/Shlok-21/LeetCode-Problems/tree/master/0853-most-profit-assigning-work) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Shlok-21/LeetCode-Problems/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1310-watering-plants](https://github.com/Shlok-21/LeetCode-Problems/tree/master/1310-watering-plants) |
+| [1319-unique-number-of-occurrences](https://github.com/Shlok-21/LeetCode-Problems/tree/master/1319-unique-number-of-occurrences) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Shlok-21/LeetCode-Problems/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Shlok-21/LeetCode-Problems/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Shlok-21/LeetCode-Problems/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 # Hash Table
 |  |
 | ------- |
+| [1319-unique-number-of-occurrences](https://github.com/Shlok-21/LeetCode-Problems/tree/master/1319-unique-number-of-occurrences) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Shlok-21/LeetCode-Problems/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Shlok-21/LeetCode-Problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1848-sum-of-unique-elements](https://github.com/Shlok-21/LeetCode-Problems/tree/master/1848-sum-of-unique-elements) |
