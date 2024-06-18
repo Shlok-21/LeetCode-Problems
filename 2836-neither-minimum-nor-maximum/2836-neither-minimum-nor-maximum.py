@@ -1,8 +1,6 @@
 class Solution:
     def findNonMinOrMax(self, nums) -> int:
-        if len(nums)<=2:
+        if len(nums)<3:
             return -1
         else:
-            for i in nums:
-                if i != min(nums) and i!= max(nums):
-                    return i
+            return sorted(nums)[1]
