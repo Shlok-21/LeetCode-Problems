@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/Shlok-21/LeetCode-Problems/tree/master/0633-sum-of-square-numbers) |
 | [1674-minimum-operations-to-make-array-equal](https://github.com/Shlok-21/LeetCode-Problems/tree/master/1674-minimum-operations-to-make-array-equal) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Shlok-21/LeetCode-Problems/tree/master/1683-maximum-number-of-coins-you-can-get) |
+| [1920-determine-color-of-a-chessboard-square](https://github.com/Shlok-21/LeetCode-Problems/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Shlok-21/LeetCode-Problems/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Shlok-21/LeetCode-Problems/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Shlok-21/LeetCode-Problems/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Shlok-21/LeetCode-Problems/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Shlok-21/LeetCode-Problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1899-count-items-matching-a-rule](https://github.com/Shlok-21/LeetCode-Problems/tree/master/1899-count-items-matching-a-rule) |
+| [1920-determine-color-of-a-chessboard-square](https://github.com/Shlok-21/LeetCode-Problems/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [1944-truncate-sentence](https://github.com/Shlok-21/LeetCode-Problems/tree/master/1944-truncate-sentence) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Shlok-21/LeetCode-Problems/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [1970-sorting-the-sentence](https://github.com/Shlok-21/LeetCode-Problems/tree/master/1970-sorting-the-sentence) |
