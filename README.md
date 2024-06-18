@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Shlok-21/LeetCode-Problems/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/Shlok-21/LeetCode-Problems/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/Shlok-21/LeetCode-Problems/tree/master/1920-determine-color-of-a-chessboard-square) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/Shlok-21/LeetCode-Problems/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Shlok-21/LeetCode-Problems/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Shlok-21/LeetCode-Problems/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Shlok-21/LeetCode-Problems/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1899-count-items-matching-a-rule](https://github.com/Shlok-21/LeetCode-Problems/tree/master/1899-count-items-matching-a-rule) |
 | [1944-truncate-sentence](https://github.com/Shlok-21/LeetCode-Problems/tree/master/1944-truncate-sentence) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Shlok-21/LeetCode-Problems/tree/master/1988-minimize-maximum-pair-sum-in-array) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/Shlok-21/LeetCode-Problems/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Shlok-21/LeetCode-Problems/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Shlok-21/LeetCode-Problems/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Shlok-21/LeetCode-Problems/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -148,3 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Shlok-21/LeetCode-Problems/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+# Number Theory
+|  |
+| ------- |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/Shlok-21/LeetCode-Problems/tree/master/2106-find-greatest-common-divisor-of-array) |
