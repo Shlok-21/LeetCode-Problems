@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Shlok-21/LeetCode-Problems/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Shlok-21/LeetCode-Problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1833-find-the-highest-altitude](https://github.com/Shlok-21/LeetCode-Problems/tree/master/1833-find-the-highest-altitude) |
+| [1848-sum-of-unique-elements](https://github.com/Shlok-21/LeetCode-Problems/tree/master/1848-sum-of-unique-elements) |
 | [1899-count-items-matching-a-rule](https://github.com/Shlok-21/LeetCode-Problems/tree/master/1899-count-items-matching-a-rule) |
 | [1944-truncate-sentence](https://github.com/Shlok-21/LeetCode-Problems/tree/master/1944-truncate-sentence) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Shlok-21/LeetCode-Problems/tree/master/1988-minimize-maximum-pair-sum-in-array) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Shlok-21/LeetCode-Problems/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Shlok-21/LeetCode-Problems/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
+| [1848-sum-of-unique-elements](https://github.com/Shlok-21/LeetCode-Problems/tree/master/1848-sum-of-unique-elements) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Shlok-21/LeetCode-Problems/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 # String
 |  |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Shlok-21/LeetCode-Problems/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Shlok-21/LeetCode-Problems/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1848-sum-of-unique-elements](https://github.com/Shlok-21/LeetCode-Problems/tree/master/1848-sum-of-unique-elements) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Shlok-21/LeetCode-Problems/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Shlok-21/LeetCode-Problems/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2487-optimal-partition-of-string](https://github.com/Shlok-21/LeetCode-Problems/tree/master/2487-optimal-partition-of-string) |
