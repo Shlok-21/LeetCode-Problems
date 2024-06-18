@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2324-find-triangular-sum-of-an-array](https://github.com/Shlok-21/LeetCode-Problems/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Shlok-21/LeetCode-Problems/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Shlok-21/LeetCode-Problems/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2727-number-of-senior-citizens](https://github.com/Shlok-21/LeetCode-Problems/tree/master/2727-number-of-senior-citizens) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Shlok-21/LeetCode-Problems/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2836-neither-minimum-nor-maximum](https://github.com/Shlok-21/LeetCode-Problems/tree/master/2836-neither-minimum-nor-maximum) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/Shlok-21/LeetCode-Problems/tree/master/3206-find-common-elements-between-two-arrays) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Shlok-21/LeetCode-Problems/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Shlok-21/LeetCode-Problems/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2487-optimal-partition-of-string](https://github.com/Shlok-21/LeetCode-Problems/tree/master/2487-optimal-partition-of-string) |
+| [2727-number-of-senior-citizens](https://github.com/Shlok-21/LeetCode-Problems/tree/master/2727-number-of-senior-citizens) |
 | [2819-remove-trailing-zeros-from-a-string](https://github.com/Shlok-21/LeetCode-Problems/tree/master/2819-remove-trailing-zeros-from-a-string) |
 | [2886-faulty-keyboard](https://github.com/Shlok-21/LeetCode-Problems/tree/master/2886-faulty-keyboard) |
 | [3055-maximum-odd-binary-number](https://github.com/Shlok-21/LeetCode-Problems/tree/master/3055-maximum-odd-binary-number) |
