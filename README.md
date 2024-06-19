@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Shlok-21/LeetCode-Problems/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Shlok-21/LeetCode-Problems/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Shlok-21/LeetCode-Problems/tree/master/2324-find-triangular-sum-of-an-array) |
+| [2447-merge-similar-items](https://github.com/Shlok-21/LeetCode-Problems/tree/master/2447-merge-similar-items) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Shlok-21/LeetCode-Problems/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Shlok-21/LeetCode-Problems/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2727-number-of-senior-citizens](https://github.com/Shlok-21/LeetCode-Problems/tree/master/2727-number-of-senior-citizens) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Shlok-21/LeetCode-Problems/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1970-sorting-the-sentence](https://github.com/Shlok-21/LeetCode-Problems/tree/master/1970-sorting-the-sentence) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Shlok-21/LeetCode-Problems/tree/master/1988-minimize-maximum-pair-sum-in-array) |
+| [2447-merge-similar-items](https://github.com/Shlok-21/LeetCode-Problems/tree/master/2447-merge-similar-items) |
 | [2836-neither-minimum-nor-maximum](https://github.com/Shlok-21/LeetCode-Problems/tree/master/2836-neither-minimum-nor-maximum) |
 # Counting
 |  |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Shlok-21/LeetCode-Problems/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Shlok-21/LeetCode-Problems/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Shlok-21/LeetCode-Problems/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
+| [2447-merge-similar-items](https://github.com/Shlok-21/LeetCode-Problems/tree/master/2447-merge-similar-items) |
 | [2487-optimal-partition-of-string](https://github.com/Shlok-21/LeetCode-Problems/tree/master/2487-optimal-partition-of-string) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Shlok-21/LeetCode-Problems/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Shlok-21/LeetCode-Problems/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -191,3 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Shlok-21/LeetCode-Problems/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+# Ordered Set
+|  |
+| ------- |
+| [2447-merge-similar-items](https://github.com/Shlok-21/LeetCode-Problems/tree/master/2447-merge-similar-items) |
