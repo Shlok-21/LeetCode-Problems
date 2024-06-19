@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/Shlok-21/LeetCode-Problems/tree/master/0009-palindrome-number) |
 | [0633-sum-of-square-numbers](https://github.com/Shlok-21/LeetCode-Problems/tree/master/0633-sum-of-square-numbers) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Shlok-21/LeetCode-Problems/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1674-minimum-operations-to-make-array-equal](https://github.com/Shlok-21/LeetCode-Problems/tree/master/1674-minimum-operations-to-make-array-equal) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Shlok-21/LeetCode-Problems/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/Shlok-21/LeetCode-Problems/tree/master/1817-calculate-money-in-leetcode-bank) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1310-watering-plants](https://github.com/Shlok-21/LeetCode-Problems/tree/master/1310-watering-plants) |
 | [1319-unique-number-of-occurrences](https://github.com/Shlok-21/LeetCode-Problems/tree/master/1319-unique-number-of-occurrences) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Shlok-21/LeetCode-Problems/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Shlok-21/LeetCode-Problems/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Shlok-21/LeetCode-Problems/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Shlok-21/LeetCode-Problems/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Shlok-21/LeetCode-Problems/tree/master/1683-maximum-number-of-coins-you-can-get) |
