@@ -1,6 +1,9 @@
 class Solution:
     def judgeCircle(self, moves: str) -> bool:
-        center = [0,0]
+        # check if opposite moves (u,d) and (r,l) are equal then only true
+        return (moves.count('U') == moves.count('D')) and (moves.count('R') == moves.count('L'))
+
+        '''center = [0,0]
         for i in moves:
             if i =='U':
                 center[0] +=1
@@ -11,5 +14,5 @@ class Solution:
             elif i =='R':
                 center[1] +=1
 
-        return True if center == [0,0] else False
+        return True if center == [0,0] else False'''
         
