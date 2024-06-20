@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 # Array
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Shlok-21/LeetCode-Problems/tree/master/0136-single-number) |
 | [0330-patching-array](https://github.com/Shlok-21/LeetCode-Problems/tree/master/0330-patching-array) |
 | [0502-ipo](https://github.com/Shlok-21/LeetCode-Problems/tree/master/0502-ipo) |
 | [0853-most-profit-assigning-work](https://github.com/Shlok-21/LeetCode-Problems/tree/master/0853-most-profit-assigning-work) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 # Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Shlok-21/LeetCode-Problems/tree/master/0136-single-number) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Shlok-21/LeetCode-Problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Shlok-21/LeetCode-Problems/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 # Prefix Sum
