@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1674-minimum-operations-to-make-array-equal](https://github.com/Shlok-21/LeetCode-Problems/tree/master/1674-minimum-operations-to-make-array-equal) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Shlok-21/LeetCode-Problems/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/Shlok-21/LeetCode-Problems/tree/master/1817-calculate-money-in-leetcode-bank) |
+| [1844-maximum-number-of-balls-in-a-box](https://github.com/Shlok-21/LeetCode-Problems/tree/master/1844-maximum-number-of-balls-in-a-box) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/Shlok-21/LeetCode-Problems/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Shlok-21/LeetCode-Problems/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Shlok-21/LeetCode-Problems/tree/master/2324-find-triangular-sum-of-an-array) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Shlok-21/LeetCode-Problems/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Shlok-21/LeetCode-Problems/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1472-increasing-decreasing-string](https://github.com/Shlok-21/LeetCode-Problems/tree/master/1472-increasing-decreasing-string) |
+| [1844-maximum-number-of-balls-in-a-box](https://github.com/Shlok-21/LeetCode-Problems/tree/master/1844-maximum-number-of-balls-in-a-box) |
 | [1848-sum-of-unique-elements](https://github.com/Shlok-21/LeetCode-Problems/tree/master/1848-sum-of-unique-elements) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Shlok-21/LeetCode-Problems/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Shlok-21/LeetCode-Problems/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Shlok-21/LeetCode-Problems/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1472-increasing-decreasing-string](https://github.com/Shlok-21/LeetCode-Problems/tree/master/1472-increasing-decreasing-string) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Shlok-21/LeetCode-Problems/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1844-maximum-number-of-balls-in-a-box](https://github.com/Shlok-21/LeetCode-Problems/tree/master/1844-maximum-number-of-balls-in-a-box) |
 | [1848-sum-of-unique-elements](https://github.com/Shlok-21/LeetCode-Problems/tree/master/1848-sum-of-unique-elements) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Shlok-21/LeetCode-Problems/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Shlok-21/LeetCode-Problems/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
