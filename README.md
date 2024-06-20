@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0330-patching-array](https://github.com/Shlok-21/LeetCode-Problems/tree/master/0330-patching-array) |
+| [0502-ipo](https://github.com/Shlok-21/LeetCode-Problems/tree/master/0502-ipo) |
 | [0853-most-profit-assigning-work](https://github.com/Shlok-21/LeetCode-Problems/tree/master/0853-most-profit-assigning-work) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Shlok-21/LeetCode-Problems/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/Shlok-21/LeetCode-Problems/tree/master/1001-n-repeated-element-in-size-2n-array) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0330-patching-array](https://github.com/Shlok-21/LeetCode-Problems/tree/master/0330-patching-array) |
+| [0502-ipo](https://github.com/Shlok-21/LeetCode-Problems/tree/master/0502-ipo) |
 | [0853-most-profit-assigning-work](https://github.com/Shlok-21/LeetCode-Problems/tree/master/0853-most-profit-assigning-work) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Shlok-21/LeetCode-Problems/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Shlok-21/LeetCode-Problems/tree/master/1683-maximum-number-of-coins-you-can-get) |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 # Sorting
 |  |
 | ------- |
+| [0502-ipo](https://github.com/Shlok-21/LeetCode-Problems/tree/master/0502-ipo) |
 | [0853-most-profit-assigning-work](https://github.com/Shlok-21/LeetCode-Problems/tree/master/0853-most-profit-assigning-work) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Shlok-21/LeetCode-Problems/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Shlok-21/LeetCode-Problems/tree/master/1683-maximum-number-of-coins-you-can-get) |
@@ -200,3 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2447-merge-similar-items](https://github.com/Shlok-21/LeetCode-Problems/tree/master/2447-merge-similar-items) |
+# Heap (Priority Queue)
+|  |
+| ------- |
+| [0502-ipo](https://github.com/Shlok-21/LeetCode-Problems/tree/master/0502-ipo) |
