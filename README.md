@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/Shlok-21/LeetCode-Problems/tree/master/0657-robot-return-to-origin) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/Shlok-21/LeetCode-Problems/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1454-remove-palindromic-subsequences](https://github.com/Shlok-21/LeetCode-Problems/tree/master/1454-remove-palindromic-subsequences) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Shlok-21/LeetCode-Problems/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1472-increasing-decreasing-string](https://github.com/Shlok-21/LeetCode-Problems/tree/master/1472-increasing-decreasing-string) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/Shlok-21/LeetCode-Problems/tree/master/1001-n-repeated-element-in-size-2n-array) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/Shlok-21/LeetCode-Problems/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1319-unique-number-of-occurrences](https://github.com/Shlok-21/LeetCode-Problems/tree/master/1319-unique-number-of-occurrences) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Shlok-21/LeetCode-Problems/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1472-increasing-decreasing-string](https://github.com/Shlok-21/LeetCode-Problems/tree/master/1472-increasing-decreasing-string) |
