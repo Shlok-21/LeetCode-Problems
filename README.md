@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0853-most-profit-assigning-work](https://github.com/Shlok-21/LeetCode-Problems/tree/master/0853-most-profit-assigning-work) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Shlok-21/LeetCode-Problems/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/Shlok-21/LeetCode-Problems/tree/master/1001-n-repeated-element-in-size-2n-array) |
+| [1138-grumpy-bookstore-owner](https://github.com/Shlok-21/LeetCode-Problems/tree/master/1138-grumpy-bookstore-owner) |
 | [1310-watering-plants](https://github.com/Shlok-21/LeetCode-Problems/tree/master/1310-watering-plants) |
 | [1319-unique-number-of-occurrences](https://github.com/Shlok-21/LeetCode-Problems/tree/master/1319-unique-number-of-occurrences) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Shlok-21/LeetCode-Problems/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -217,3 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0502-ipo](https://github.com/Shlok-21/LeetCode-Problems/tree/master/0502-ipo) |
+# Sliding Window
+|  |
+| ------- |
+| [1138-grumpy-bookstore-owner](https://github.com/Shlok-21/LeetCode-Problems/tree/master/1138-grumpy-bookstore-owner) |
