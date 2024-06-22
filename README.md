@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/Shlok-21/LeetCode-Problems/tree/master/0009-palindrome-number) |
 | [0633-sum-of-square-numbers](https://github.com/Shlok-21/LeetCode-Problems/tree/master/0633-sum-of-square-numbers) |
+| [1370-count-number-of-nice-subarrays](https://github.com/Shlok-21/LeetCode-Problems/tree/master/1370-count-number-of-nice-subarrays) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Shlok-21/LeetCode-Problems/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1674-minimum-operations-to-make-array-equal](https://github.com/Shlok-21/LeetCode-Problems/tree/master/1674-minimum-operations-to-make-array-equal) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Shlok-21/LeetCode-Problems/tree/master/1683-maximum-number-of-coins-you-can-get) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1138-grumpy-bookstore-owner](https://github.com/Shlok-21/LeetCode-Problems/tree/master/1138-grumpy-bookstore-owner) |
 | [1310-watering-plants](https://github.com/Shlok-21/LeetCode-Problems/tree/master/1310-watering-plants) |
 | [1319-unique-number-of-occurrences](https://github.com/Shlok-21/LeetCode-Problems/tree/master/1319-unique-number-of-occurrences) |
+| [1370-count-number-of-nice-subarrays](https://github.com/Shlok-21/LeetCode-Problems/tree/master/1370-count-number-of-nice-subarrays) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Shlok-21/LeetCode-Problems/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Shlok-21/LeetCode-Problems/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Shlok-21/LeetCode-Problems/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/Shlok-21/LeetCode-Problems/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Shlok-21/LeetCode-Problems/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1319-unique-number-of-occurrences](https://github.com/Shlok-21/LeetCode-Problems/tree/master/1319-unique-number-of-occurrences) |
+| [1370-count-number-of-nice-subarrays](https://github.com/Shlok-21/LeetCode-Problems/tree/master/1370-count-number-of-nice-subarrays) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Shlok-21/LeetCode-Problems/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1472-increasing-decreasing-string](https://github.com/Shlok-21/LeetCode-Problems/tree/master/1472-increasing-decreasing-string) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Shlok-21/LeetCode-Problems/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -223,4 +226,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1138-grumpy-bookstore-owner](https://github.com/Shlok-21/LeetCode-Problems/tree/master/1138-grumpy-bookstore-owner) |
+| [1370-count-number-of-nice-subarrays](https://github.com/Shlok-21/LeetCode-Problems/tree/master/1370-count-number-of-nice-subarrays) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Shlok-21/LeetCode-Problems/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
