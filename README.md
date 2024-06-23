@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/Shlok-21/LeetCode-Problems/tree/master/0633-sum-of-square-numbers) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Shlok-21/LeetCode-Problems/tree/master/1370-count-number-of-nice-subarrays) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Shlok-21/LeetCode-Problems/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [1585-the-kth-factor-of-n](https://github.com/Shlok-21/LeetCode-Problems/tree/master/1585-the-kth-factor-of-n) |
 | [1674-minimum-operations-to-make-array-equal](https://github.com/Shlok-21/LeetCode-Problems/tree/master/1674-minimum-operations-to-make-array-equal) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Shlok-21/LeetCode-Problems/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/Shlok-21/LeetCode-Problems/tree/master/1817-calculate-money-in-leetcode-bank) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 # Number Theory
 |  |
 | ------- |
+| [1585-the-kth-factor-of-n](https://github.com/Shlok-21/LeetCode-Problems/tree/master/1585-the-kth-factor-of-n) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Shlok-21/LeetCode-Problems/tree/master/2106-find-greatest-common-divisor-of-array) |
 # Matrix
 |  |
