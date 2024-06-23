@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Shlok-21/LeetCode-Problems/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2748-calculate-delayed-arrival-time](https://github.com/Shlok-21/LeetCode-Problems/tree/master/2748-calculate-delayed-arrival-time) |
 | [3055-maximum-odd-binary-number](https://github.com/Shlok-21/LeetCode-Problems/tree/master/3055-maximum-odd-binary-number) |
+| [3227-find-missing-and-repeated-values](https://github.com/Shlok-21/LeetCode-Problems/tree/master/3227-find-missing-and-repeated-values) |
 | [3371-harshad-number](https://github.com/Shlok-21/LeetCode-Problems/tree/master/3371-harshad-number) |
 # Array
 |  |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Shlok-21/LeetCode-Problems/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2836-neither-minimum-nor-maximum](https://github.com/Shlok-21/LeetCode-Problems/tree/master/2836-neither-minimum-nor-maximum) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/Shlok-21/LeetCode-Problems/tree/master/3206-find-common-elements-between-two-arrays) |
+| [3227-find-missing-and-repeated-values](https://github.com/Shlok-21/LeetCode-Problems/tree/master/3227-find-missing-and-repeated-values) |
 # Greedy
 |  |
 | ------- |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Shlok-21/LeetCode-Problems/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2825-minimize-string-length](https://github.com/Shlok-21/LeetCode-Problems/tree/master/2825-minimize-string-length) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/Shlok-21/LeetCode-Problems/tree/master/3206-find-common-elements-between-two-arrays) |
+| [3227-find-missing-and-repeated-values](https://github.com/Shlok-21/LeetCode-Problems/tree/master/3227-find-missing-and-repeated-values) |
 # Bit Manipulation
 |  |
 | ------- |
@@ -220,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Shlok-21/LeetCode-Problems/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [3227-find-missing-and-repeated-values](https://github.com/Shlok-21/LeetCode-Problems/tree/master/3227-find-missing-and-repeated-values) |
 # Ordered Set
 |  |
 | ------- |
