@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 # Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Shlok-21/LeetCode-Problems/tree/master/0035-search-insert-position) |
 | [0136-single-number](https://github.com/Shlok-21/LeetCode-Problems/tree/master/0136-single-number) |
 | [0330-patching-array](https://github.com/Shlok-21/LeetCode-Problems/tree/master/0330-patching-array) |
 | [0502-ipo](https://github.com/Shlok-21/LeetCode-Problems/tree/master/0502-ipo) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 # Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Shlok-21/LeetCode-Problems/tree/master/0035-search-insert-position) |
 | [0633-sum-of-square-numbers](https://github.com/Shlok-21/LeetCode-Problems/tree/master/0633-sum-of-square-numbers) |
 | [0853-most-profit-assigning-work](https://github.com/Shlok-21/LeetCode-Problems/tree/master/0853-most-profit-assigning-work) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Shlok-21/LeetCode-Problems/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
