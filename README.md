@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2836-neither-minimum-nor-maximum](https://github.com/Shlok-21/LeetCode-Problems/tree/master/2836-neither-minimum-nor-maximum) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/Shlok-21/LeetCode-Problems/tree/master/2844-sum-of-squares-of-special-elements) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Shlok-21/LeetCode-Problems/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/Shlok-21/LeetCode-Problems/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/Shlok-21/LeetCode-Problems/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3227-find-missing-and-repeated-values](https://github.com/Shlok-21/LeetCode-Problems/tree/master/3227-find-missing-and-repeated-values) |
 # Greedy
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2819-remove-trailing-zeros-from-a-string](https://github.com/Shlok-21/LeetCode-Problems/tree/master/2819-remove-trailing-zeros-from-a-string) |
 | [2825-minimize-string-length](https://github.com/Shlok-21/LeetCode-Problems/tree/master/2825-minimize-string-length) |
 | [2886-faulty-keyboard](https://github.com/Shlok-21/LeetCode-Problems/tree/master/2886-faulty-keyboard) |
+| [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/Shlok-21/LeetCode-Problems/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3055-maximum-odd-binary-number](https://github.com/Shlok-21/LeetCode-Problems/tree/master/3055-maximum-odd-binary-number) |
 | [3379-score-of-a-string](https://github.com/Shlok-21/LeetCode-Problems/tree/master/3379-score-of-a-string) |
 # Game Theory
