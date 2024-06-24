@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1970-sorting-the-sentence](https://github.com/Shlok-21/LeetCode-Problems/tree/master/1970-sorting-the-sentence) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Shlok-21/LeetCode-Problems/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Shlok-21/LeetCode-Problems/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [2401-count-asterisks](https://github.com/Shlok-21/LeetCode-Problems/tree/master/2401-count-asterisks) |
 | [2487-optimal-partition-of-string](https://github.com/Shlok-21/LeetCode-Problems/tree/master/2487-optimal-partition-of-string) |
 | [2727-number-of-senior-citizens](https://github.com/Shlok-21/LeetCode-Problems/tree/master/2727-number-of-senior-citizens) |
 | [2819-remove-trailing-zeros-from-a-string](https://github.com/Shlok-21/LeetCode-Problems/tree/master/2819-remove-trailing-zeros-from-a-string) |
