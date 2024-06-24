@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0577-employee-bonus](https://github.com/Shlok-21/LeetCode-Problems/tree/master/0577-employee-bonus) |
 | [0620-not-boring-movies](https://github.com/Shlok-21/LeetCode-Problems/tree/master/0620-not-boring-movies) |
+| [0627-swap-salary](https://github.com/Shlok-21/LeetCode-Problems/tree/master/0627-swap-salary) |
 | [1153-product-sales-analysis-i](https://github.com/Shlok-21/LeetCode-Problems/tree/master/1153-product-sales-analysis-i) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/Shlok-21/LeetCode-Problems/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1734-bank-account-summary-ii](https://github.com/Shlok-21/LeetCode-Problems/tree/master/1734-bank-account-summary-ii) |
