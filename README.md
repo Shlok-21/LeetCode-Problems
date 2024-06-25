@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/Shlok-21/LeetCode-Problems/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/Shlok-21/LeetCode-Problems/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3227-find-missing-and-repeated-values](https://github.com/Shlok-21/LeetCode-Problems/tree/master/3227-find-missing-and-repeated-values) |
+| [3397-find-the-integer-added-to-array-i](https://github.com/Shlok-21/LeetCode-Problems/tree/master/3397-find-the-integer-added-to-array-i) |
 # Greedy
 |  |
 | ------- |
