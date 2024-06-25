@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/Shlok-21/LeetCode-Problems/tree/master/0633-sum-of-square-numbers) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Shlok-21/LeetCode-Problems/tree/master/1370-count-number-of-nice-subarrays) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Shlok-21/LeetCode-Problems/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [1448-maximum-69-number](https://github.com/Shlok-21/LeetCode-Problems/tree/master/1448-maximum-69-number) |
 | [1585-the-kth-factor-of-n](https://github.com/Shlok-21/LeetCode-Problems/tree/master/1585-the-kth-factor-of-n) |
 | [1674-minimum-operations-to-make-array-equal](https://github.com/Shlok-21/LeetCode-Problems/tree/master/1674-minimum-operations-to-make-array-equal) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Shlok-21/LeetCode-Problems/tree/master/1683-maximum-number-of-coins-you-can-get) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0502-ipo](https://github.com/Shlok-21/LeetCode-Problems/tree/master/0502-ipo) |
 | [0853-most-profit-assigning-work](https://github.com/Shlok-21/LeetCode-Problems/tree/master/0853-most-profit-assigning-work) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Shlok-21/LeetCode-Problems/tree/master/0982-minimum-increment-to-make-array-unique) |
+| [1448-maximum-69-number](https://github.com/Shlok-21/LeetCode-Problems/tree/master/1448-maximum-69-number) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Shlok-21/LeetCode-Problems/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Shlok-21/LeetCode-Problems/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2487-optimal-partition-of-string](https://github.com/Shlok-21/LeetCode-Problems/tree/master/2487-optimal-partition-of-string) |
