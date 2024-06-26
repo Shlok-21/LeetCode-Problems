@@ -153,11 +153,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 # Tree
 |  |
 | ------- |
+| [0975-range-sum-of-bst](https://github.com/Shlok-21/LeetCode-Problems/tree/master/0975-range-sum-of-bst) |
 | [1285-balance-a-binary-search-tree](https://github.com/Shlok-21/LeetCode-Problems/tree/master/1285-balance-a-binary-search-tree) |
 | [2384-root-equals-sum-of-children](https://github.com/Shlok-21/LeetCode-Problems/tree/master/2384-root-equals-sum-of-children) |
 # Binary Tree
 |  |
 | ------- |
+| [0975-range-sum-of-bst](https://github.com/Shlok-21/LeetCode-Problems/tree/master/0975-range-sum-of-bst) |
 | [1285-balance-a-binary-search-tree](https://github.com/Shlok-21/LeetCode-Problems/tree/master/1285-balance-a-binary-search-tree) |
 | [2384-root-equals-sum-of-children](https://github.com/Shlok-21/LeetCode-Problems/tree/master/2384-root-equals-sum-of-children) |
 # Two Pointers
@@ -295,8 +297,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 # Depth-First Search
 |  |
 | ------- |
+| [0975-range-sum-of-bst](https://github.com/Shlok-21/LeetCode-Problems/tree/master/0975-range-sum-of-bst) |
 | [1285-balance-a-binary-search-tree](https://github.com/Shlok-21/LeetCode-Problems/tree/master/1285-balance-a-binary-search-tree) |
 # Binary Search Tree
 |  |
 | ------- |
+| [0975-range-sum-of-bst](https://github.com/Shlok-21/LeetCode-Problems/tree/master/0975-range-sum-of-bst) |
 | [1285-balance-a-binary-search-tree](https://github.com/Shlok-21/LeetCode-Problems/tree/master/1285-balance-a-binary-search-tree) |
