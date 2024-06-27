@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3206-find-common-elements-between-two-arrays](https://github.com/Shlok-21/LeetCode-Problems/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3227-find-missing-and-repeated-values](https://github.com/Shlok-21/LeetCode-Problems/tree/master/3227-find-missing-and-repeated-values) |
 | [3397-find-the-integer-added-to-array-i](https://github.com/Shlok-21/LeetCode-Problems/tree/master/3397-find-the-integer-added-to-array-i) |
+| [3421-count-pairs-that-form-a-complete-day-i](https://github.com/Shlok-21/LeetCode-Problems/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 # Greedy
 |  |
 | ------- |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1848-sum-of-unique-elements](https://github.com/Shlok-21/LeetCode-Problems/tree/master/1848-sum-of-unique-elements) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Shlok-21/LeetCode-Problems/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Shlok-21/LeetCode-Problems/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
+| [3421-count-pairs-that-form-a-complete-day-i](https://github.com/Shlok-21/LeetCode-Problems/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 # String
 |  |
 | ------- |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2825-minimize-string-length](https://github.com/Shlok-21/LeetCode-Problems/tree/master/2825-minimize-string-length) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/Shlok-21/LeetCode-Problems/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3227-find-missing-and-repeated-values](https://github.com/Shlok-21/LeetCode-Problems/tree/master/3227-find-missing-and-repeated-values) |
+| [3421-count-pairs-that-form-a-complete-day-i](https://github.com/Shlok-21/LeetCode-Problems/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 # Bit Manipulation
 |  |
 | ------- |
