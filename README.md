@@ -304,3 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0975-range-sum-of-bst](https://github.com/Shlok-21/LeetCode-Problems/tree/master/0975-range-sum-of-bst) |
 | [1285-balance-a-binary-search-tree](https://github.com/Shlok-21/LeetCode-Problems/tree/master/1285-balance-a-binary-search-tree) |
+# Graph
+|  |
+| ------- |
+| [1916-find-center-of-star-graph](https://github.com/Shlok-21/LeetCode-Problems/tree/master/1916-find-center-of-star-graph) |
