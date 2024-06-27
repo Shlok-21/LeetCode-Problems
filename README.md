@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Shlok-21/LeetCode-Problems/tree/master/0136-single-number) |
 | [0330-patching-array](https://github.com/Shlok-21/LeetCode-Problems/tree/master/0330-patching-array) |
 | [0502-ipo](https://github.com/Shlok-21/LeetCode-Problems/tree/master/0502-ipo) |
+| [0561-array-partition](https://github.com/Shlok-21/LeetCode-Problems/tree/master/0561-array-partition) |
 | [0853-most-profit-assigning-work](https://github.com/Shlok-21/LeetCode-Problems/tree/master/0853-most-profit-assigning-work) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Shlok-21/LeetCode-Problems/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/Shlok-21/LeetCode-Problems/tree/master/1001-n-repeated-element-in-size-2n-array) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0330-patching-array](https://github.com/Shlok-21/LeetCode-Problems/tree/master/0330-patching-array) |
 | [0502-ipo](https://github.com/Shlok-21/LeetCode-Problems/tree/master/0502-ipo) |
+| [0561-array-partition](https://github.com/Shlok-21/LeetCode-Problems/tree/master/0561-array-partition) |
 | [0853-most-profit-assigning-work](https://github.com/Shlok-21/LeetCode-Problems/tree/master/0853-most-profit-assigning-work) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Shlok-21/LeetCode-Problems/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1285-balance-a-binary-search-tree](https://github.com/Shlok-21/LeetCode-Problems/tree/master/1285-balance-a-binary-search-tree) |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0502-ipo](https://github.com/Shlok-21/LeetCode-Problems/tree/master/0502-ipo) |
+| [0561-array-partition](https://github.com/Shlok-21/LeetCode-Problems/tree/master/0561-array-partition) |
 | [0853-most-profit-assigning-work](https://github.com/Shlok-21/LeetCode-Problems/tree/master/0853-most-profit-assigning-work) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Shlok-21/LeetCode-Problems/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1675-magnetic-force-between-two-balls](https://github.com/Shlok-21/LeetCode-Problems/tree/master/1675-magnetic-force-between-two-balls) |
@@ -324,3 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1916-find-center-of-star-graph](https://github.com/Shlok-21/LeetCode-Problems/tree/master/1916-find-center-of-star-graph) |
+# Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/Shlok-21/LeetCode-Problems/tree/master/0561-array-partition) |
