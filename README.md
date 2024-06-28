@@ -338,3 +338,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/Shlok-21/LeetCode-Problems/tree/master/0561-array-partition) |
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Hash Table
+|  |
+| ------- |
+| [0205-isomorphic-strings](https://github.com/Shlok-21/LeetCode-Problems/tree/master/0205-isomorphic-strings) |
+## String
+|  |
+| ------- |
+| [0205-isomorphic-strings](https://github.com/Shlok-21/LeetCode-Problems/tree/master/0205-isomorphic-strings) |
+<!---LeetCode Topics End-->
