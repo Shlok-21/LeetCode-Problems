@@ -345,11 +345,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0205-isomorphic-strings](https://github.com/Shlok-21/LeetCode-Problems/tree/master/0205-isomorphic-strings) |
 | [0926-find-and-replace-pattern](https://github.com/Shlok-21/LeetCode-Problems/tree/master/0926-find-and-replace-pattern) |
+| [2226-rings-and-rods](https://github.com/Shlok-21/LeetCode-Problems/tree/master/2226-rings-and-rods) |
 ## String
 |  |
 | ------- |
 | [0205-isomorphic-strings](https://github.com/Shlok-21/LeetCode-Problems/tree/master/0205-isomorphic-strings) |
 | [0926-find-and-replace-pattern](https://github.com/Shlok-21/LeetCode-Problems/tree/master/0926-find-and-replace-pattern) |
+| [2226-rings-and-rods](https://github.com/Shlok-21/LeetCode-Problems/tree/master/2226-rings-and-rods) |
 ## Array
 |  |
 | ------- |
