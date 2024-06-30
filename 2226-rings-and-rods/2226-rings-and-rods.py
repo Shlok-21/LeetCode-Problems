@@ -11,8 +11,9 @@ class Solution:
             hashmap[order[i][1]].append(order[i][0])
         
         count = 0
-        for key, value in hashmap.items():
-            if 'R' in value and 'G' in value and 'B' in value:
+        for value in hashmap.values():
+            if len(set(value)) == 3:
                 count +=1
+                
         return(count)
         
