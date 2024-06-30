@@ -366,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Shlok-21/LeetCode-Problems/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+| [1916-find-center-of-star-graph](https://github.com/Shlok-21/LeetCode-Problems/tree/master/1916-find-center-of-star-graph) |
 ## Topological Sort
 |  |
 | ------- |
