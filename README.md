@@ -353,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Shlok-21/LeetCode-Problems/tree/master/0205-isomorphic-strings) |
 | [0926-find-and-replace-pattern](https://github.com/Shlok-21/LeetCode-Problems/tree/master/0926-find-and-replace-pattern) |
 | [1797-goal-parser-interpretation](https://github.com/Shlok-21/LeetCode-Problems/tree/master/1797-goal-parser-interpretation) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/Shlok-21/LeetCode-Problems/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2226-rings-and-rods](https://github.com/Shlok-21/LeetCode-Problems/tree/master/2226-rings-and-rods) |
 | [2887-sort-vowels-in-a-string](https://github.com/Shlok-21/LeetCode-Problems/tree/master/2887-sort-vowels-in-a-string) |
 ## Array
