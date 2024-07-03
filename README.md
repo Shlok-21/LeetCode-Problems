@@ -366,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0926-find-and-replace-pattern](https://github.com/Shlok-21/LeetCode-Problems/tree/master/0926-find-and-replace-pattern) |
 | [1293-three-consecutive-odds](https://github.com/Shlok-21/LeetCode-Problems/tree/master/1293-three-consecutive-odds) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/Shlok-21/LeetCode-Problems/tree/master/1378-cells-with-odd-values-in-a-matrix) |
+| [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Shlok-21/LeetCode-Problems/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1752-arithmetic-subarrays](https://github.com/Shlok-21/LeetCode-Problems/tree/master/1752-arithmetic-subarrays) |
 ## Depth-First Search
 |  |
@@ -406,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shlok-21/LeetCode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Shlok-21/LeetCode-Problems/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1752-arithmetic-subarrays](https://github.com/Shlok-21/LeetCode-Problems/tree/master/1752-arithmetic-subarrays) |
 | [2887-sort-vowels-in-a-string](https://github.com/Shlok-21/LeetCode-Problems/tree/master/2887-sort-vowels-in-a-string) |
 ## Binary Search
@@ -420,4 +422,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1160-letter-tile-possibilities](https://github.com/Shlok-21/LeetCode-Problems/tree/master/1160-letter-tile-possibilities) |
+## Greedy
+|  |
+| ------- |
+| [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Shlok-21/LeetCode-Problems/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 <!---LeetCode Topics End-->
