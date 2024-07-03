@@ -449,5 +449,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0338-counting-bits](https://github.com/Shlok-21/LeetCode-Problems/tree/master/0338-counting-bits) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Shlok-21/LeetCode-Problems/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0338-counting-bits](https://github.com/Shlok-21/LeetCode-Problems/tree/master/0338-counting-bits) |
 <!---LeetCode Topics End-->
