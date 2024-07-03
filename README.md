@@ -369,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/Shlok-21/LeetCode-Problems/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Shlok-21/LeetCode-Problems/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1752-arithmetic-subarrays](https://github.com/Shlok-21/LeetCode-Problems/tree/master/1752-arithmetic-subarrays) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/Shlok-21/LeetCode-Problems/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -397,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1342-queens-that-can-attack-the-king](https://github.com/Shlok-21/LeetCode-Problems/tree/master/1342-queens-that-can-attack-the-king) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/Shlok-21/LeetCode-Problems/tree/master/1378-cells-with-odd-values-in-a-matrix) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/Shlok-21/LeetCode-Problems/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 ## Linked List
 |  |
 | ------- |
@@ -433,4 +435,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1342-queens-that-can-attack-the-king](https://github.com/Shlok-21/LeetCode-Problems/tree/master/1342-queens-that-can-attack-the-king) |
+## Stack
+|  |
+| ------- |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/Shlok-21/LeetCode-Problems/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+## Queue
+|  |
+| ------- |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/Shlok-21/LeetCode-Problems/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 <!---LeetCode Topics End-->
