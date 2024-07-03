@@ -391,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0728-self-dividing-numbers](https://github.com/Shlok-21/LeetCode-Problems/tree/master/0728-self-dividing-numbers) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/Shlok-21/LeetCode-Problems/tree/master/1378-cells-with-odd-values-in-a-matrix) |
+| [2812-find-the-maximum-achievable-number](https://github.com/Shlok-21/LeetCode-Problems/tree/master/2812-find-the-maximum-achievable-number) |
 ## Simulation
 |  |
 | ------- |
