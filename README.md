@@ -400,10 +400,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1342-queens-that-can-attack-the-king](https://github.com/Shlok-21/LeetCode-Problems/tree/master/1342-queens-that-can-attack-the-king) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/Shlok-21/LeetCode-Problems/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Shlok-21/LeetCode-Problems/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+| [2299-merge-nodes-in-between-zeros](https://github.com/Shlok-21/LeetCode-Problems/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Linked List
 |  |
 | ------- |
 | [0908-middle-of-the-linked-list](https://github.com/Shlok-21/LeetCode-Problems/tree/master/0908-middle-of-the-linked-list) |
+| [2299-merge-nodes-in-between-zeros](https://github.com/Shlok-21/LeetCode-Problems/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Two Pointers
 |  |
 | ------- |
