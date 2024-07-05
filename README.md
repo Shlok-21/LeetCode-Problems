@@ -405,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0908-middle-of-the-linked-list](https://github.com/Shlok-21/LeetCode-Problems/tree/master/0908-middle-of-the-linked-list) |
+| [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Shlok-21/LeetCode-Problems/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Shlok-21/LeetCode-Problems/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Two Pointers
 |  |
