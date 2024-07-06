@@ -349,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1160-letter-tile-possibilities](https://github.com/Shlok-21/LeetCode-Problems/tree/master/1160-letter-tile-possibilities) |
 | [1752-arithmetic-subarrays](https://github.com/Shlok-21/LeetCode-Problems/tree/master/1752-arithmetic-subarrays) |
 | [2226-rings-and-rods](https://github.com/Shlok-21/LeetCode-Problems/tree/master/2226-rings-and-rods) |
+| [2427-first-letter-to-appear-twice](https://github.com/Shlok-21/LeetCode-Problems/tree/master/2427-first-letter-to-appear-twice) |
 | [2777-find-the-distinct-difference-array](https://github.com/Shlok-21/LeetCode-Problems/tree/master/2777-find-the-distinct-difference-array) |
 ## String
 |  |
@@ -359,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1797-goal-parser-interpretation](https://github.com/Shlok-21/LeetCode-Problems/tree/master/1797-goal-parser-interpretation) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Shlok-21/LeetCode-Problems/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2226-rings-and-rods](https://github.com/Shlok-21/LeetCode-Problems/tree/master/2226-rings-and-rods) |
+| [2427-first-letter-to-appear-twice](https://github.com/Shlok-21/LeetCode-Problems/tree/master/2427-first-letter-to-appear-twice) |
 | [2887-sort-vowels-in-a-string](https://github.com/Shlok-21/LeetCode-Problems/tree/master/2887-sort-vowels-in-a-string) |
 ## Array
 |  |
@@ -437,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1160-letter-tile-possibilities](https://github.com/Shlok-21/LeetCode-Problems/tree/master/1160-letter-tile-possibilities) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Shlok-21/LeetCode-Problems/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
+| [2427-first-letter-to-appear-twice](https://github.com/Shlok-21/LeetCode-Problems/tree/master/2427-first-letter-to-appear-twice) |
 ## Greedy
 |  |
 | ------- |
@@ -458,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0338-counting-bits](https://github.com/Shlok-21/LeetCode-Problems/tree/master/0338-counting-bits) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Shlok-21/LeetCode-Problems/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
+| [2427-first-letter-to-appear-twice](https://github.com/Shlok-21/LeetCode-Problems/tree/master/2427-first-letter-to-appear-twice) |
 ## Dynamic Programming
 |  |
 | ------- |
