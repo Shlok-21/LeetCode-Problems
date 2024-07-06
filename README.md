@@ -349,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1160-letter-tile-possibilities](https://github.com/Shlok-21/LeetCode-Problems/tree/master/1160-letter-tile-possibilities) |
 | [1752-arithmetic-subarrays](https://github.com/Shlok-21/LeetCode-Problems/tree/master/1752-arithmetic-subarrays) |
 | [2226-rings-and-rods](https://github.com/Shlok-21/LeetCode-Problems/tree/master/2226-rings-and-rods) |
+| [2777-find-the-distinct-difference-array](https://github.com/Shlok-21/LeetCode-Problems/tree/master/2777-find-the-distinct-difference-array) |
 ## String
 |  |
 | ------- |
@@ -371,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Shlok-21/LeetCode-Problems/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1752-arithmetic-subarrays](https://github.com/Shlok-21/LeetCode-Problems/tree/master/1752-arithmetic-subarrays) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Shlok-21/LeetCode-Problems/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+| [2777-find-the-distinct-difference-array](https://github.com/Shlok-21/LeetCode-Problems/tree/master/2777-find-the-distinct-difference-array) |
 ## Depth-First Search
 |  |
 | ------- |
