@@ -473,4 +473,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0338-counting-bits](https://github.com/Shlok-21/LeetCode-Problems/tree/master/0338-counting-bits) |
+## Database
+|  |
+| ------- |
+| [1462-list-the-products-ordered-in-a-period](https://github.com/Shlok-21/LeetCode-Problems/tree/master/1462-list-the-products-ordered-in-a-period) |
 <!---LeetCode Topics End-->
