@@ -367,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shlok-21/LeetCode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0926-find-and-replace-pattern](https://github.com/Shlok-21/LeetCode-Problems/tree/master/0926-find-and-replace-pattern) |
+| [0944-smallest-range-i](https://github.com/Shlok-21/LeetCode-Problems/tree/master/0944-smallest-range-i) |
 | [1293-three-consecutive-odds](https://github.com/Shlok-21/LeetCode-Problems/tree/master/1293-three-consecutive-odds) |
 | [1342-queens-that-can-attack-the-king](https://github.com/Shlok-21/LeetCode-Problems/tree/master/1342-queens-that-can-attack-the-king) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/Shlok-21/LeetCode-Problems/tree/master/1378-cells-with-odd-values-in-a-matrix) |
@@ -397,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0728-self-dividing-numbers](https://github.com/Shlok-21/LeetCode-Problems/tree/master/0728-self-dividing-numbers) |
+| [0944-smallest-range-i](https://github.com/Shlok-21/LeetCode-Problems/tree/master/0944-smallest-range-i) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/Shlok-21/LeetCode-Problems/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1642-water-bottles](https://github.com/Shlok-21/LeetCode-Problems/tree/master/1642-water-bottles) |
 | [2645-pass-the-pillow](https://github.com/Shlok-21/LeetCode-Problems/tree/master/2645-pass-the-pillow) |
