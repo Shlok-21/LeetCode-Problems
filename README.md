@@ -398,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0728-self-dividing-numbers](https://github.com/Shlok-21/LeetCode-Problems/tree/master/0728-self-dividing-numbers) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/Shlok-21/LeetCode-Problems/tree/master/1378-cells-with-odd-values-in-a-matrix) |
+| [1642-water-bottles](https://github.com/Shlok-21/LeetCode-Problems/tree/master/1642-water-bottles) |
 | [2645-pass-the-pillow](https://github.com/Shlok-21/LeetCode-Problems/tree/master/2645-pass-the-pillow) |
 | [2812-find-the-maximum-achievable-number](https://github.com/Shlok-21/LeetCode-Problems/tree/master/2812-find-the-maximum-achievable-number) |
 ## Simulation
@@ -405,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1342-queens-that-can-attack-the-king](https://github.com/Shlok-21/LeetCode-Problems/tree/master/1342-queens-that-can-attack-the-king) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/Shlok-21/LeetCode-Problems/tree/master/1378-cells-with-odd-values-in-a-matrix) |
+| [1642-water-bottles](https://github.com/Shlok-21/LeetCode-Problems/tree/master/1642-water-bottles) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Shlok-21/LeetCode-Problems/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Shlok-21/LeetCode-Problems/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2645-pass-the-pillow](https://github.com/Shlok-21/LeetCode-Problems/tree/master/2645-pass-the-pillow) |
