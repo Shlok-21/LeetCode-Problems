@@ -378,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Shlok-21/LeetCode-Problems/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1752-arithmetic-subarrays](https://github.com/Shlok-21/LeetCode-Problems/tree/master/1752-arithmetic-subarrays) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Shlok-21/LeetCode-Problems/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+| [1803-average-waiting-time](https://github.com/Shlok-21/LeetCode-Problems/tree/master/1803-average-waiting-time) |
 | [1829-maximum-units-on-a-truck](https://github.com/Shlok-21/LeetCode-Problems/tree/master/1829-maximum-units-on-a-truck) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Shlok-21/LeetCode-Problems/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2777-find-the-distinct-difference-array](https://github.com/Shlok-21/LeetCode-Problems/tree/master/2777-find-the-distinct-difference-array) |
@@ -415,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/Shlok-21/LeetCode-Problems/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1642-water-bottles](https://github.com/Shlok-21/LeetCode-Problems/tree/master/1642-water-bottles) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Shlok-21/LeetCode-Problems/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+| [1803-average-waiting-time](https://github.com/Shlok-21/LeetCode-Problems/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Shlok-21/LeetCode-Problems/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Shlok-21/LeetCode-Problems/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2645-pass-the-pillow](https://github.com/Shlok-21/LeetCode-Problems/tree/master/2645-pass-the-pillow) |
