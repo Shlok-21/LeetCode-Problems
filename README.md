@@ -352,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2226-rings-and-rods](https://github.com/Shlok-21/LeetCode-Problems/tree/master/2226-rings-and-rods) |
 | [2427-first-letter-to-appear-twice](https://github.com/Shlok-21/LeetCode-Problems/tree/master/2427-first-letter-to-appear-twice) |
 | [2777-find-the-distinct-difference-array](https://github.com/Shlok-21/LeetCode-Problems/tree/master/2777-find-the-distinct-difference-array) |
+| [3324-split-the-array](https://github.com/Shlok-21/LeetCode-Problems/tree/master/3324-split-the-array) |
 ## String
 |  |
 | ------- |
@@ -384,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1829-maximum-units-on-a-truck](https://github.com/Shlok-21/LeetCode-Problems/tree/master/1829-maximum-units-on-a-truck) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Shlok-21/LeetCode-Problems/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2777-find-the-distinct-difference-array](https://github.com/Shlok-21/LeetCode-Problems/tree/master/2777-find-the-distinct-difference-array) |
+| [3324-split-the-array](https://github.com/Shlok-21/LeetCode-Problems/tree/master/3324-split-the-array) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -456,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1160-letter-tile-possibilities](https://github.com/Shlok-21/LeetCode-Problems/tree/master/1160-letter-tile-possibilities) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Shlok-21/LeetCode-Problems/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [2427-first-letter-to-appear-twice](https://github.com/Shlok-21/LeetCode-Problems/tree/master/2427-first-letter-to-appear-twice) |
+| [3324-split-the-array](https://github.com/Shlok-21/LeetCode-Problems/tree/master/3324-split-the-array) |
 ## Greedy
 |  |
 | ------- |
