@@ -362,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1160-letter-tile-possibilities](https://github.com/Shlok-21/LeetCode-Problems/tree/master/1160-letter-tile-possibilities) |
 | [1720-crawler-log-folder](https://github.com/Shlok-21/LeetCode-Problems/tree/master/1720-crawler-log-folder) |
 | [1797-goal-parser-interpretation](https://github.com/Shlok-21/LeetCode-Problems/tree/master/1797-goal-parser-interpretation) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/Shlok-21/LeetCode-Problems/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Shlok-21/LeetCode-Problems/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2226-rings-and-rods](https://github.com/Shlok-21/LeetCode-Problems/tree/master/2226-rings-and-rods) |
 | [2427-first-letter-to-appear-twice](https://github.com/Shlok-21/LeetCode-Problems/tree/master/2427-first-letter-to-appear-twice) |
@@ -463,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Shlok-21/LeetCode-Problems/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/Shlok-21/LeetCode-Problems/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1829-maximum-units-on-a-truck](https://github.com/Shlok-21/LeetCode-Problems/tree/master/1829-maximum-units-on-a-truck) |
 ## Matrix
 |  |
@@ -473,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1720-crawler-log-folder](https://github.com/Shlok-21/LeetCode-Problems/tree/master/1720-crawler-log-folder) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Shlok-21/LeetCode-Problems/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/Shlok-21/LeetCode-Problems/tree/master/1818-maximum-score-from-removing-substrings) |
 ## Queue
 |  |
 | ------- |
