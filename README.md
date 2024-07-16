@@ -358,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0205-isomorphic-strings](https://github.com/Shlok-21/LeetCode-Problems/tree/master/0205-isomorphic-strings) |
 | [0926-find-and-replace-pattern](https://github.com/Shlok-21/LeetCode-Problems/tree/master/0926-find-and-replace-pattern) |
+| [0953-reverse-only-letters](https://github.com/Shlok-21/LeetCode-Problems/tree/master/0953-reverse-only-letters) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Shlok-21/LeetCode-Problems/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1160-letter-tile-possibilities](https://github.com/Shlok-21/LeetCode-Problems/tree/master/1160-letter-tile-possibilities) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Shlok-21/LeetCode-Problems/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
@@ -437,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shlok-21/LeetCode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0908-middle-of-the-linked-list](https://github.com/Shlok-21/LeetCode-Problems/tree/master/0908-middle-of-the-linked-list) |
+| [0953-reverse-only-letters](https://github.com/Shlok-21/LeetCode-Problems/tree/master/0953-reverse-only-letters) |
 ## Sorting
 |  |
 | ------- |
