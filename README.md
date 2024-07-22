@@ -351,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-arithmetic-subarrays](https://github.com/Shlok-21/LeetCode-Problems/tree/master/1752-arithmetic-subarrays) |
 | [2226-rings-and-rods](https://github.com/Shlok-21/LeetCode-Problems/tree/master/2226-rings-and-rods) |
 | [2427-first-letter-to-appear-twice](https://github.com/Shlok-21/LeetCode-Problems/tree/master/2427-first-letter-to-appear-twice) |
+| [2502-sort-the-people](https://github.com/Shlok-21/LeetCode-Problems/tree/master/2502-sort-the-people) |
 | [2777-find-the-distinct-difference-array](https://github.com/Shlok-21/LeetCode-Problems/tree/master/2777-find-the-distinct-difference-array) |
 | [3324-split-the-array](https://github.com/Shlok-21/LeetCode-Problems/tree/master/3324-split-the-array) |
 ## String
@@ -368,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Shlok-21/LeetCode-Problems/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2226-rings-and-rods](https://github.com/Shlok-21/LeetCode-Problems/tree/master/2226-rings-and-rods) |
 | [2427-first-letter-to-appear-twice](https://github.com/Shlok-21/LeetCode-Problems/tree/master/2427-first-letter-to-appear-twice) |
+| [2502-sort-the-people](https://github.com/Shlok-21/LeetCode-Problems/tree/master/2502-sort-the-people) |
 | [2887-sort-vowels-in-a-string](https://github.com/Shlok-21/LeetCode-Problems/tree/master/2887-sort-vowels-in-a-string) |
 ## Array
 |  |
@@ -388,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1803-average-waiting-time](https://github.com/Shlok-21/LeetCode-Problems/tree/master/1803-average-waiting-time) |
 | [1829-maximum-units-on-a-truck](https://github.com/Shlok-21/LeetCode-Problems/tree/master/1829-maximum-units-on-a-truck) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Shlok-21/LeetCode-Problems/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2502-sort-the-people](https://github.com/Shlok-21/LeetCode-Problems/tree/master/2502-sort-the-people) |
 | [2777-find-the-distinct-difference-array](https://github.com/Shlok-21/LeetCode-Problems/tree/master/2777-find-the-distinct-difference-array) |
 | [3324-split-the-array](https://github.com/Shlok-21/LeetCode-Problems/tree/master/3324-split-the-array) |
 ## Depth-First Search
@@ -448,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Shlok-21/LeetCode-Problems/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1752-arithmetic-subarrays](https://github.com/Shlok-21/LeetCode-Problems/tree/master/1752-arithmetic-subarrays) |
 | [1829-maximum-units-on-a-truck](https://github.com/Shlok-21/LeetCode-Problems/tree/master/1829-maximum-units-on-a-truck) |
+| [2502-sort-the-people](https://github.com/Shlok-21/LeetCode-Problems/tree/master/2502-sort-the-people) |
 | [2887-sort-vowels-in-a-string](https://github.com/Shlok-21/LeetCode-Problems/tree/master/2887-sort-vowels-in-a-string) |
 ## Binary Search
 |  |
