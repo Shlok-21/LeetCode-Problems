@@ -344,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0205-isomorphic-strings](https://github.com/Shlok-21/LeetCode-Problems/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/Shlok-21/LeetCode-Problems/tree/master/0242-valid-anagram) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shlok-21/LeetCode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0926-find-and-replace-pattern](https://github.com/Shlok-21/LeetCode-Problems/tree/master/0926-find-and-replace-pattern) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Shlok-21/LeetCode-Problems/tree/master/1112-find-words-that-can-be-formed-by-characters) |
@@ -358,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0205-isomorphic-strings](https://github.com/Shlok-21/LeetCode-Problems/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/Shlok-21/LeetCode-Problems/tree/master/0242-valid-anagram) |
 | [0926-find-and-replace-pattern](https://github.com/Shlok-21/LeetCode-Problems/tree/master/0926-find-and-replace-pattern) |
 | [0953-reverse-only-letters](https://github.com/Shlok-21/LeetCode-Problems/tree/master/0953-reverse-only-letters) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Shlok-21/LeetCode-Problems/tree/master/1112-find-words-that-can-be-formed-by-characters) |
@@ -447,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/Shlok-21/LeetCode-Problems/tree/master/0242-valid-anagram) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shlok-21/LeetCode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0948-sort-an-array](https://github.com/Shlok-21/LeetCode-Problems/tree/master/0948-sort-an-array) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Shlok-21/LeetCode-Problems/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
