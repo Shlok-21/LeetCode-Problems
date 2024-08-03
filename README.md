@@ -349,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0926-find-and-replace-pattern](https://github.com/Shlok-21/LeetCode-Problems/tree/master/0926-find-and-replace-pattern) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Shlok-21/LeetCode-Problems/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1160-letter-tile-possibilities](https://github.com/Shlok-21/LeetCode-Problems/tree/master/1160-letter-tile-possibilities) |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Shlok-21/LeetCode-Problems/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1752-arithmetic-subarrays](https://github.com/Shlok-21/LeetCode-Problems/tree/master/1752-arithmetic-subarrays) |
 | [2226-rings-and-rods](https://github.com/Shlok-21/LeetCode-Problems/tree/master/2226-rings-and-rods) |
 | [2427-first-letter-to-appear-twice](https://github.com/Shlok-21/LeetCode-Problems/tree/master/2427-first-letter-to-appear-twice) |
@@ -387,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/Shlok-21/LeetCode-Problems/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Shlok-21/LeetCode-Problems/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Shlok-21/LeetCode-Problems/tree/master/1496-lucky-numbers-in-a-matrix) |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Shlok-21/LeetCode-Problems/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Shlok-21/LeetCode-Problems/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1720-crawler-log-folder](https://github.com/Shlok-21/LeetCode-Problems/tree/master/1720-crawler-log-folder) |
 | [1752-arithmetic-subarrays](https://github.com/Shlok-21/LeetCode-Problems/tree/master/1752-arithmetic-subarrays) |
@@ -454,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shlok-21/LeetCode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0948-sort-an-array](https://github.com/Shlok-21/LeetCode-Problems/tree/master/0948-sort-an-array) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Shlok-21/LeetCode-Problems/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Shlok-21/LeetCode-Problems/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Shlok-21/LeetCode-Problems/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1752-arithmetic-subarrays](https://github.com/Shlok-21/LeetCode-Problems/tree/master/1752-arithmetic-subarrays) |
 | [1829-maximum-units-on-a-truck](https://github.com/Shlok-21/LeetCode-Problems/tree/master/1829-maximum-units-on-a-truck) |
