@@ -378,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/Shlok-21/LeetCode-Problems/tree/master/0118-pascals-triangle) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shlok-21/LeetCode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0890-lemonade-change](https://github.com/Shlok-21/LeetCode-Problems/tree/master/0890-lemonade-change) |
 | [0926-find-and-replace-pattern](https://github.com/Shlok-21/LeetCode-Problems/tree/master/0926-find-and-replace-pattern) |
@@ -517,6 +518,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/Shlok-21/LeetCode-Problems/tree/master/0118-pascals-triangle) |
 | [0338-counting-bits](https://github.com/Shlok-21/LeetCode-Problems/tree/master/0338-counting-bits) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Shlok-21/LeetCode-Problems/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 ## Database
