@@ -524,6 +524,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [1179-game-play-analysis-i](https://github.com/Shlok-21/LeetCode-Problems/tree/master/1179-game-play-analysis-i) |
 | [1462-list-the-products-ordered-in-a-period](https://github.com/Shlok-21/LeetCode-Problems/tree/master/1462-list-the-products-ordered-in-a-period) |
 ## Recursion
 |  |
